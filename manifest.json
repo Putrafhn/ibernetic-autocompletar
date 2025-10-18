@@ -1,0 +1,37 @@
+{
+    "manifest_version": 3,
+    "name": "AutoRelleno Ibernetic",
+    "author": "Cansi",
+    "version": "1.0",
+    "homepage_url": "https://github.com/cansi22/ibernetic-autocompletar",
+    "short_name": "AutoIbernetic",
+    "description": "Rellena automáticamente el campo 'sitename' en el login de Ibernetic.",
+    "icons": {
+        "128": "icon.png"
+    },
+    "options_page": "popup.html",
+    "permissions": [
+        "storage"
+    ],
+    "host_permissions": [
+        "https://panel.ibernetic.com/*"
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "icon.png",
+            "48": "icon.png",
+            "128": "icon.png"
+        }
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://panel.ibernetic.com/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
