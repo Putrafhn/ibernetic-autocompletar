@@ -14,9 +14,11 @@ Es una herramienta independiente desarrollada para uso personal y comunitario. S
 
 La forma más sencilla de instalar la extensión es a través de la Chrome Web Store:
 
-[**INSTALAR DESDE CHROME WEB STORE (Disponible Pronto)**](https://chrome.google.com/webstore/)
+[**INSTALAR DESDE CHROME WEB STORE**](https://chrome.google.com/webstore/](https://chromewebstore.google.com/detail/autorelleno-ibernetic/oopkboempfelgnbipchkefdnokeodmbh))
 
-> **Nota:** La URL anterior es un marcador de posición. Será funcional una vez que la extensión sea publicada oficialmente por Google.
+![Static Badge](https://img.shields.io/badge/Instalar_Chrome_Extension-428FF?style=flat&logo=google-chrome&color=white&link=https%3A%2F%2Fchromewebstore.google.com%2Fdetail%2Fautorelleno-ibernetic%2Foopkboempfelgnbipchkefdnokeodmbh)
+
+![Static Badge](https://img.shields.io/badge/Instalar_Chrome_Extension-428FF?style=flat&logo=brave&color=white&link=https%3A%2F%2Fchromewebstore.google.com%2Fdetail%2Fautorelleno-ibernetic%2Foopkboempfelgnbipchkefdnokeodmbh)
 
 ***
 
